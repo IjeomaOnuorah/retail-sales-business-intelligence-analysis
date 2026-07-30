@@ -74,14 +74,13 @@ The dataset follows a **Star Schema**, an industry-standard data warehousing des
 
 ##  Dashboard Preview
 
-### Retail Sales Dashboard (Page 1)
+### Dashboard Page 1
 
-![Retail Sales Dashboard 1](images/Retail Sales Dashboard 1.png)
+![Dashboard Page 1](images/dashboard-1.png)
 
-### Retail Sales Dashboard (Page 2)
+### Dashboard Page 2
 
-![Retail Sales Dashboard 2](images/Retail Sales Dashboard 2.png)
-
+![Dashboard Page 2](images/dashboard-2.png)
 ---
 
 ##  Key Insights
